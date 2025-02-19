@@ -24,5 +24,7 @@ This code allows you to create a graphical application using the Tkinter library
 
 ### How to Use
 1 Run the program.
+
 2 Use the available buttons to open an image, edit it, or save it.
+
 3 Draw directly on the image by dragging the mouse.
